@@ -1,0 +1,12 @@
+{
+    "name": "backbone_mediator",
+    "version": "0.1.0",
+    "scripts": {
+    },
+    "main": "backbone-mediator.js",
+    "devDependencies": {
+    },
+    "peerDependencies": {
+      "backbone": "^1.3.2"
+    }
+  }
